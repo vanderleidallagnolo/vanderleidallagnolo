@@ -7,7 +7,8 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderleidallagnolo&layout=compact&langs_count=7&theme=dark" style="max-width: 95%;">
   </a>
 </div>
-#
+
+<hr>
 
 <div>
         <a href="https://github.com/vanderleidallagnolo">
@@ -19,7 +20,6 @@
         <img align="center" alt="Vanderlei-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style="max-width: 100%;">
   </a>
 </div>
-
 
 #
         
