@@ -1,10 +1,25 @@
 # Vanderlei Dallagnolo - Public Profile 
 - 👋 Hi, I’m @vanderleidallagnolo
-- 👀 I’m interested in relearn programming
-- 🌱 I’m currently
 
-![Vanderlei´s GitHub stats](https://github-readme-stats.vercel.app/api?username=vanderleidallagnolo&count_private=true&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanderleidallagnolo&layout=compact&theme=dark)](https://github.com/vanderleidallagnolo/)
+<div>
+        <a href="https://github.com/vanderleidallagnolo">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanderleidallagnolo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="max-width: 100%;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderleidallagnolo&layout=compact&langs_count=7&theme=dark" style="max-width: 100%;">
+  </a>
+</div>
+
+<div>
+        <a href="https://github.com/vanderleidallagnolo">
+      <img align="center" alt="Vanderlei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+        <img align="center" alt="Vanderlei-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
+        <img align="center" alt="Vanderlei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+        <img align="center" alt="Vanderlei-MS-SQL-SERVER" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="max-width: 100%;">
+        <img align="center" alt="Vanderlei-MYSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="max-width: 100%;">        
+        <img align="center" alt="Vanderlei-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style="max-width: 100%;">
+  </a>
+</div>
+
+![Snake animation](https://github.com/vanderleidallagnolo/vanderleidallagnolo/blob/output/github-contribution-grid-snake.svg)
 
 a . working as level 2 attendant for the SLA - service level agreement - of the Ellevo company.
 
