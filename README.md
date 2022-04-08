@@ -3,7 +3,7 @@
 - 👀 I’m interested in relearn programming
 - 🌱 I’m currently
 
-![Vanderlei´s GitHub stats](https://github-readme-stats.vercel.app/api?username=vanderleidallagnolo&theme=dark&show_icons=true)
+![Vanderlei´s GitHub stats](https://github-readme-stats.vercel.app/api?username=vanderleidallagnolo&&count_private=true&theme=dark&show_icons=true)
 
 a . working as level 2 attendant for the SLA - service level agreement - of the Ellevo company.
 
