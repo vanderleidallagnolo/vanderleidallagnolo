@@ -18,9 +18,12 @@
         <img align="center" alt="Vanderlei-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style="max-width: 100%;">
   </a>
 </div>
-<div>
+
+#
+        
 ![Snake animation](https://github.com/vanderleidallagnolo/vanderleidallagnolo/blob/output/github-contribution-grid-snake.svg)
-</div>
+        
+#
 
 a . working as level 2 attendant for the SLA - service level agreement - of the Ellevo company.
 
