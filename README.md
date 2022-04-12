@@ -18,6 +18,10 @@
         <img align="center" alt="Vanderlei-MS-SQL-SERVER" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" >
         <img align="center" alt="Vanderlei-MYSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" >        
         <img align="center" alt="Vanderlei-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" >
+                
+        <img align="center" alt="Vanderlei-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" >
+                
+                
   </a>
 </div>
 
