@@ -32,21 +32,19 @@
         
 #
 
-a . working as level 2 attendant for the SLA - service level agreement - of the Ellevo company.
+a . Currently working at the leve 2 for the SLA - service level agreement - of the Ellevo company.
 
 Site of Ellevo: www.ellevo.com.
 
-In this position I provide support for the solution Plataforma Ellevo.
+In this position I provide support and development for the solution Plataforma Ellevo.
 
-b. Attending CS50 course from Harvard University:
-
-https://cs50.harvard.edu/x/2022/
-
-c. Studying by myself with focus on these topics:
+b. Studying by myself with focus on these topics:
 - C#
 - WEB DEV
 - SQL SERVER
 
+c. I am returning to the I.T. area, so my experience and knowledge are far greater than what
+is seeing here at this moment. I will update and increment gradually.
 
 ## 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me 
